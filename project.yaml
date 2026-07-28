@@ -81,6 +81,10 @@ security:
   contact:
     advisory_url: "https://github.com/kubeflow/kubeflow/security/advisories/new"
 
+audits:
+  - date: "2025-09-22T00:00:00Z"
+    type: security
+    url: "https://github.com/kubeflow/community/blob/master/security/Ada_Logics-Kubeflow-security-audit-2025.pdf"
 governance:
   contributing:
     path: "https://github.com/kubeflow/kubeflow/blob/master/CONTRIBUTING.md"
