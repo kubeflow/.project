@@ -5,10 +5,12 @@
 # TODO: Add package_managers if distributed via registries
 
 schema_version: "1.0.0"
+project_lead: "@kubeflow/kubeflow-steering-committee"
 slug: "kubeflow"
 name: "Kubeflow"
 description: "Kubeflow is the foundation of tools for AI Platforms on Kubernetes."
 type: "project"
+
 slack_channels:
   - name: "#kubeflow-announcements"
     primary: true
