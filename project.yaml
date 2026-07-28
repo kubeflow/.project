@@ -30,7 +30,10 @@ slack_channels:
 maturity_log:
   - phase: "incubating"
     date: "2023-07-25T00:00:00Z"
-    issue: "https://github.com/cncf/sandbox/issues/196" # TODO: AUTO-DETECTED — please verify
+    issue: "https://github.com/cncf/sandbox/issues/196"
+  - phase: "graduated"
+    date: "2026-07-28T00:00:00Z"
+    issue: "https://github.com/cncf/toc/issues/2253"
 
 repositories:
   - "https://github.com/kubeflow/kubeflow"
