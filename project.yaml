@@ -85,11 +85,18 @@ audits:
   - date: "2025-09-22T00:00:00Z"
     type: security
     url: "https://github.com/kubeflow/community/blob/master/security/Ada_Logics-Kubeflow-security-audit-2025.pdf"
+
 governance:
-  contributing:
-    path: "https://github.com/kubeflow/kubeflow/blob/master/CONTRIBUTING.md"
+  contributor_guide:
+    path: "https://www.kubeflow.org/docs/about/contributing/"
+  contributor_ladder:
+    path: "https://github.com/kubeflow/community/blob/master/community-membership.md"
   code_of_conduct:
     path: "https://github.com/cncf/foundation/blob/main/code-of-conduct.md"
+  community_calendar:
+    path: "https://zoom-lfx.platform.linuxfoundation.org/meetings/kubeflow"
+  sub_project_list:
+    path: "https://github.com/kubeflow/community/blob/master/subprojects/PROJECTS.md"
 
 legal:
   license:
