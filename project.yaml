@@ -37,6 +37,21 @@ maturity_log:
 
 repositories:
   - "https://github.com/kubeflow/kubeflow"
+  # https://github.com/kubeflow/community/blob/master/subprojects/PROJECTS.md
+  # Graduated projects:
+  - "https://github.com/kubeflow/hub"
+  - "https://github.com/kubeflow/katib"
+  - "https://github.com/kubeflow/notebooks"
+  - "https://github.com/kubeflow/pipelines"
+  - "https://github.com/kubeflow/spark-operator"
+  - "https://github.com/kubeflow/trainer"
+  # Incubating projects:
+  - "https://github.com/kubeflow/kale"
+  - "https://github.com/kubeflow/sdk"
+  # Experimental projects:
+  - "https://github.com/kubeflow/mcp-apache-spark-history-server"
+  - "https://github.com/kubeflow/mcp-server"
+  - "https://github.com/kubeflow/mlflow-integration"
 
 website: "https://kubeflow.org"
 
