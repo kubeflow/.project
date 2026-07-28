@@ -53,6 +53,9 @@ artwork: "https://landscape.cncf.io/logos/kubeflow.svg"
 
 social:
   twitter: "https://twitter.com/kubeflow"
+  linkedin: "https://www.linkedin.com/company/kubeflow"
+  youtube: "https://www.youtube.com/@Kubeflow"
+  youtube_community: "https://www.youtube.com/@KubeflowCommunity"
 
 security:
   policy:
