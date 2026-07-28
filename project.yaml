@@ -27,6 +27,9 @@ slack_channels:
   - name: "#kubeflow-spark-on-kubernetes"
   - name: "#kubeflow-trainer"
 
+mailing_lists:
+  - "kubeflow-discuss@googlegroups.com"
+
 maturity_log:
   - phase: "incubating"
     date: "2023-07-25T00:00:00Z"
