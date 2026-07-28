@@ -9,7 +9,6 @@ slug: "kubeflow"
 name: "Kubeflow"
 description: "Kubeflow is the foundation of tools for AI Platforms on Kubernetes."
 type: "project"
-project_lead: "akgraner" # TODO: AUTO-DETECTED — please verify
 slack_channels: # TODO: AUTO-DETECTED — please verify the channel(s) below
   - name: "#kubeflow-slack-channels"
     primary: true
