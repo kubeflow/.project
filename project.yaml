@@ -9,13 +9,23 @@ slug: "kubeflow"
 name: "Kubeflow"
 description: "Kubeflow is the foundation of tools for AI Platforms on Kubernetes."
 type: "project"
-slack_channels: # TODO: AUTO-DETECTED — please verify the channel(s) below
-  - name: "#kubeflow-slack-channels"
+slack_channels:
+  - name: "#kubeflow-announcements"
     primary: true
-  - name: "#kubeflow-slack"
-  - name: "#kubeflow-pipelines"
   - name: "#kubeflow-community-distribution"
+  - name: "#kubeflow-contributors"
+  - name: "#kubeflow-doc-agent"
+  - name: "#kubeflow-events"
+  - name: "#kubeflow-helm-chart"
+  - name: "#kubeflow-hub"
+  - name: "#kubeflow-katib"
   - name: "#kubeflow-ml-experience"
+  - name: "#kubeflow-notebooks"
+  - name: "#kubeflow-outreach"
+  - name: "#kubeflow-outreach"
+  - name: "#kubeflow-pipelines"
+  - name: "#kubeflow-spark-on-kubernetes"
+  - name: "#kubeflow-trainer"
 
 maturity_log:
   - phase: "incubating"
