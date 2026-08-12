@@ -7,12 +7,12 @@ maintainers:
   - project_id: "kubeflow"
     org: "kubeflow"
     teams:
-      # Roster = members of the appointed Kubeflow Committees (Steering, Outreach),
-      # appointed chairs of the Kubeflow Working Groups, and root approvers of the
-      # Kubeflow Subprojects' code repositories.
+      # Roster = members of the appointed Kubeflow Committees (Steering, Outreach,
+      # Distribution), appointed chairs of the Kubeflow Working Groups, and root
+      # approvers of the Kubeflow Subprojects' code repositories.
       #
       # Trailing comments record the role each member holds, most significant first:
-      #   KSC / KOC              -> Kubeflow Steering / Outreach Committee
+      #   KSC / KOC / KDC        -> Kubeflow Steering / Outreach / Distribution Committee
       #   chair: <wg>            -> appointed chair of a Kubeflow Working Group
       #   approver: <subproject> -> root approver in that subproject's OWNERS file
       #   emeritus / legacy      -> historical role, retained for continuity
@@ -52,7 +52,7 @@ maintainers:
           - jesuino               # approver: kale
           - johnugeorge           # KSC emeritus; approver: katib, trainer
           - jonburdo              # chair: wg-data; approver: hub
-          - juliusvonkohout       # KSC; approver: dashboard
+          - juliusvonkohout       # KSC; KDC lead; approver: dashboard
           - kimwnasptd            # approver: community-distribution
           - kramaranya            # approver: mcp-server, mlflow-integration, sdk
           - mprahl                # chair: wg-pipelines; approver: mlflow-integration, pipelines, pipelines-components
@@ -67,7 +67,7 @@ maintainers:
           - rongou                # approver: mpi-operator
           - scrapcodes            # legacy: kfp-tekton
           - StefanoFioravanzo     # KOC chair; chair: wg-ml-experience; approver: kale
-          - tarekabouzeid         # KOC chair
+          - tarekabouzeid         # KOC chair; KDC lead
           - tarilabs              # chair: wg-data; approver: hub
           - tenzen-y              # chair: wg-training; approver: mpi-operator, trainer
           - terrytangyuan         # KSC emeritus; chair: wg-training; approver: mpi-operator, trainer
