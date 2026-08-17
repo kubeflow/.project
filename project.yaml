@@ -21,7 +21,6 @@ slack_channels:
   - name: "#kubeflow-ml-experience"
   - name: "#kubeflow-notebooks"
   - name: "#kubeflow-outreach"
-  - name: "#kubeflow-outreach"
   - name: "#kubeflow-pipelines"
   - name: "#kubeflow-spark-on-kubernetes"
   - name: "#kubeflow-trainer"
@@ -40,6 +39,7 @@ maturity_log:
 repositories:
   - "https://github.com/kubeflow/kubeflow"
   # https://github.com/kubeflow/community/blob/master/subprojects/PROJECTS.md
+  - https://github.com/kubeflow/community-distribution
   - https://github.com/kubeflow/community-distribution
   # Graduated projects:
   - "https://github.com/kubeflow/hub"
