@@ -15,7 +15,6 @@ maintainers:
       #   KSC / KOC / KDC        -> Kubeflow Steering / Outreach / Distribution Committee
       #   chair: <wg>            -> appointed chair of a Kubeflow Working Group
       #   approver: <subproject> -> root approver in that subproject's OWNERS file
-      #   emeritus / legacy      -> historical role, retained for continuity
       #
       # Source of truth: https://github.com/kubeflow/community
       - name: "project-maintainers"
@@ -24,62 +23,46 @@ maintainers:
           - adysenrothman         # approver: hub
           - akgraner              # CNCF community lead; approver: examples
           - Al-Pragliola          # approver: hub
-          - andreyvelich          # KSC; chair: wg-data, wg-ml-experience, wg-training; approver: hub, katib, mcp-server, sdk, spark-operator, trainer
+          - andreyvelich          # Kubeflow Steering Committee; chair: wg-data, wg-ml-experience, wg-training; approver: hub, katib, mcp-server, sdk, spark-operator, trainer
           - andyatmiami           # chair: wg-notebooks; approver: dashboard, notebooks
-          - animeshsingh          # legacy: kfctl, kfp-tekton, kfp-tekton-backend, kfserving-lts
           - astefanutti           # chair: wg-training; approver: mcp-server, sdk, trainer
-          - chasecadet            # KSC
+          - chasecadet            # Kubeflow Steering Committee
           - chensun               # chair: wg-pipelines; approver: pipelines
           - ChenYi015             # chair: wg-data; approver: spark-operator
-          - ckadner               # emeritus approver: hub
-          - dominikkawka          # KOC lead
+          - dominikkawka          # Kubeflow Outreach Committee lead
           - droctothorpe          # chair: wg-pipelines; approver: pipelines
           - ederign               # chair: wg-ml-experience; approver: hub, kale
           - Electronic-Waste      # approver: katib, mcp-server, sdk, trainer
-          - elikatsis             # emeritus approver: community-distribution
-          - fenglixa              # legacy: kfp-tekton
-          - franciscojavierarceo  # KSC; chair: wg-data
+          - franciscojavierarceo  # Kubeflow Steering Committee; chair: wg-data
           - gaocegege             # approver: katib, trainer
           - hbelmiro              # approver: pipelines-components
           - HumairAK              # chair: wg-pipelines; approver: mlflow-integration, pipelines, pipelines-components
-          - IronPan               # legacy: pipelines/GKE docs approver (website, examples)
           - jacobsalway           # approver: spark-operator
-          - jaiakash              # KOC lead; reviewer: mcp-server
-          - james-jwu             # KSC emeritus
-          - jbottum               # KSC emeritus
+          - jaiakash              # Kubeflow Outreach Committee lead; reviewer: mcp-server
           - jeffspahr             # approver: pipelines
           - Jeffwan               # approver: trainer
           - jesuino               # approver: kale
-          - johnugeorge           # KSC emeritus; approver: katib, trainer
+          - johnugeorge           # approver: katib, trainer
           - jonburdo              # chair: wg-data; approver: hub
-          - juliusvonkohout       # KSC; KDC lead; approver: dashboard
+          - juliusvonkohout       # Kubeflow Steering Committee; Kubeflow Community Distribution; approver: dashboard
           - kimwnasptd            # approver: community-distribution
           - kramaranya            # approver: mcp-server, mlflow-integration, sdk
           - mprahl                # chair: wg-pipelines; approver: mlflow-integration, pipelines, pipelines-components
           - mwielgus              # approver: spark-operator
           - nabuskey              # chair: wg-data; approver: spark-operator
           - nsingla               # approver: pipelines-components
-          - PatrickXYS            # emeritus approver: community-distribution
           - pboyd                 # approver: hub
-          - pugangxa              # legacy: kfp-tekton
           - rareddy               # chair: wg-data; approver: hub
-          - rimolive              # approver: website (pipelines docs)
           - rongou                # approver: mpi-operator
-          - scrapcodes            # legacy: kfp-tekton
-          - StefanoFioravanzo     # KOC chair; chair: wg-ml-experience; approver: kale
-          - tarekabouzeid         # KOC chair; KDC lead
+          - StefanoFioravanzo     # Kubeflow Outreach Committee chair; chair: wg-ml-experience; approver: kale
+          - tarekabouzeid         # Kubeflow Outreach Committee chair; Kubeflow Community Distribution lead
           - tarilabs              # chair: wg-data; approver: hub
           - tenzen-y              # chair: wg-training; approver: mpi-operator, trainer
-          - terrytangyuan         # KSC emeritus; chair: wg-training; approver: mpi-operator, trainer
-          - theadactyl            # community: former Kubeflow community manager
-          - thesuperzapper        # KSC; chair: wg-notebooks; approver: dashboard, notebooks
-          - Tomcli                # emeritus approver: hub
+          - terrytangyuan         # chair: wg-training; approver: mpi-operator, trainer
+          - thesuperzapper        # Kubeflow Steering Committee; chair: wg-notebooks; approver: dashboard, notebooks
           - vara-bonthu           # chair: wg-data; approver: spark-operator
-          - varodrig              # KOC chair
-          - yanniszark            # emeritus approver: community-distribution
-          - yashpal2104           # KOC lead
-          - yhwang                # legacy: kfp-tekton
+          - varodrig              # Kubeflow Outreach Committee chair
+          - yashpal2104           # Kubeflow Outreach Committee lead
           - yuchaoran2011         # approver: spark-operator
           - zazulam               # chair: wg-pipelines; approver: pipelines
           - zijianjoy             # approver: blog, internal-acls, kubeflow, website
-          - zw0610                # emeritus approver: trainer
