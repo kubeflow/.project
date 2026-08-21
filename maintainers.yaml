@@ -38,7 +38,6 @@ maintainers:
           - hbelmiro              # approver: pipelines-components
           - HumairAK              # chair: wg-pipelines; approver: mlflow-integration, pipelines, pipelines-components
           - jacobsalway           # approver: spark-operator
-          - jaiakash              # Kubeflow Outreach Committee lead; reviewer: mcp-server
           - jeffspahr             # approver: pipelines
           - Jeffwan               # approver: trainer
           - jesuino               # approver: kale
