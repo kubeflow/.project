@@ -12,7 +12,7 @@ maintainers:
       # approvers of the Kubeflow Subprojects' code repositories.
       #
       # Trailing comments record the role each member holds, most significant first:
-      #   KSC / KOC / KDC        -> Kubeflow Steering / Outreach / Distribution Committee
+      #   KSC / KOC / KDC        -> Kubeflow Steering commitee member / Outreach Chair / Community Distribution maintainer
       #   chair: <wg>            -> appointed chair of a Kubeflow Working Group
       #   approver: <subproject> -> root approver in that subproject's OWNERS file
       #
