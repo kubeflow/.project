@@ -7,9 +7,9 @@ maintainers:
   - project_id: "kubeflow"
     org: "kubeflow"
     teams:
-      # Roster = members of the appointed Kubeflow Committees (Steering, Outreach,
-      # Distribution), appointed chairs of the Kubeflow Working Groups, and root
-      # approvers of the Kubeflow Subprojects' code repositories.
+      # Roster = KSC member, Outreach committee Chair, Community Distribution maintainer,
+      # appointed chairs of the Kubeflow Working Groups, and
+      # root approver of the Kubeflow Subprojects' code repositories.
       #
       # Trailing comments record the role each member holds, most significant first:
       #   KSC / KOC / KDC        -> Kubeflow Steering commitee member / Outreach Chair / Community Distribution maintainer
