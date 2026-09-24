@@ -29,6 +29,7 @@ maintainers:
           - chasecadet            # Kubeflow Steering Committee
           - chensun               # chair: wg-pipelines; approver: pipelines
           - ChenYi015             # chair: wg-data; approver: spark-operator
+          - dbasunag              # approver: hub
           - dominikkawka          # Kubeflow Outreach Committee lead
           - droctothorpe          # chair: wg-pipelines; approver: pipelines
           - ederign               # chair: wg-ml-experience; approver: hub, kale
