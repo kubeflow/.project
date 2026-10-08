@@ -1,0 +1,8 @@
+# OWNERS for .project metadata repository
+# Source of truth: https://github.com/kubeflow/community/tree/master/committee-steering
+approvers:
+  - andreyvelich
+  - chasecadet
+  - franciscojavierarceo
+  - juliusvonkohout
+  - thesuperzapper
