@@ -22,6 +22,7 @@ maintainers:
           - abhijeet-dhumal       # approver: mcp-server
           - adysenrothman         # approver: hub
           - akgraner              # CNCF community lead; approver: examples
+          - akshaychitneni        # Kubeflow Distribution Committee
           - Al-Pragliola          # approver: hub
           - andreyvelich          # Kubeflow Steering Committee; chair: wg-data, wg-ml-experience, wg-training; approver: hub, katib, mcp-server, sdk, spark-operator, trainer
           - andyatmiami           # chair: wg-notebooks; approver: dashboard, notebooks
