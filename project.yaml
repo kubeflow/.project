@@ -58,7 +58,7 @@ repositories:
 
 website: "https://kubeflow.org"
 
-artwork: "https://landscape.cncf.io/logos/kubeflow.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/kubeflow"
 
 adopters:
   path: "https://github.com/kubeflow/community/blob/master/ADOPTERS.md"
